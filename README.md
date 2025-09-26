@@ -9,7 +9,7 @@ O objetivo é identificar padrões, determinar fatores de risco e aprimorar as e
 📊 Dados e Metodologia
 Dataset: Utilizamos um conjunto de dados abrangente sobre mortalidade por câncer de pulmão, contendo 222.684 instâncias.
 
-Foco da Análise: A investigação se concentrou em hipóteses sobre a correlação entre fatores biométricos (IMC, colesterol, hipertensão) e sobrevida, além da análise de grupos de risco por idade.
+Foco da Análise: A investigação se concentrou em hipóteses sobre a correlação entre fatores biométricos fornecidos pelo dataset de câncer de pulmão.
 
 Pré-processamento: O pipeline de dados incluiu limpeza, pré-processamento e o uso da técnica SMOTE para lidar com o desbalanceamento de classes.
 
