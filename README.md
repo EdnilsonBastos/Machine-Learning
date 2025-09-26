@@ -13,7 +13,7 @@ Foco da Análise: A investigação se concentrou em hipóteses sobre a correlaç
 
 Pré-processamento: O pipeline de dados incluiu limpeza, pré-processamento e o uso da técnica SMOTE para lidar com o desbalanceamento de classes.
 
-Modelo Principal:  CART (Classification and Regression Tree) como a melhor opção é clara e estratégica.
+Modelo Principal:  CART (Classification and Regression Tree).
 
 🎯 Resultados e Otimização
 Performance: O modelo alcançou um Recall de 92%. Este resultado prioriza a classe minoritária ("Sobreviveu").
